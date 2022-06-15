@@ -10,6 +10,10 @@ Geo-redundant storage with the highest level of availability and performance is 
 ### 
 Once you create a bucket and set a geographic location for storing your object data it is permanent  when you create a bucket. All Cloud Storage data is redundant across at least two zones within at least one geographic place as soon as you upload it.
 
+![Alt text](/images/simple-gcs-arch.jpg?raw=true "Optional Title")
+
+<a href="https://stackoverflow.com/"><img src="RELATIVE_PATH_TO_IMAGE></img></a>
+
 When creating the cloud storage bucket you can specific whether the objects will be stored in a 
 - region is a specific geographic place, such as São Paulo.
 - dual-region is a specific pair of regions, such as Tokyo and Osaka.
